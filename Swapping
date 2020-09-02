@@ -1,0 +1,10 @@
+num1=int(input("Enter number 1 "))
+num2=int(input("Enter number 2 "))
+print("1st Number before Swapping is",num1)
+print("2nd Number before Swapping is",num2)
+x=num1
+num1=num2
+num2=x
+print("1st Number after Swapping is ",num1)
+print("2nd Number after Swapping is ",num2)
+
