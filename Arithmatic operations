@@ -1,0 +1,12 @@
+x=int(input("Enter number 1"))
+y=int(input("Enter number 2"))
+sum=x+y
+print("sum is",sum)
+sub=x-y
+print("sub is",sub)
+mul=x*y
+print("Mul is",mul)
+div=x/y
+print("div is",div)
+rem=x%y
+print("rem is",rev)
